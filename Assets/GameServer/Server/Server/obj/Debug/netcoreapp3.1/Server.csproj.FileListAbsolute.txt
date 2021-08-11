@@ -1,0 +1,5 @@
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
