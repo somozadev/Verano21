@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mesom\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mesom\\.nuget\\packages"
+    ]
+  }
+}

@@ -3,3 +3,12 @@ C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServ
 C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
 C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
 C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\mesom\OneDrive\Documentos\VIDEOJUEGOS\Verano21\Verano21\Assets\GameServer\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
